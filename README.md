@@ -7,7 +7,7 @@ This API is in the form of Rest API. Original API is [here](https://github.com/J
 
 #### Get output
 
-```http
+```https
   GET https://codex-api16562.herokuapp.com/?language={language}&code={code}
 ```
 
