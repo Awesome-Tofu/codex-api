@@ -8,7 +8,7 @@ This API is in the form of Rest API. Original API is [here](https://github.com/J
 #### Get output
 
 ```https
-  GET https://codex-api16562.herokuapp.com/?language={language}&code={code}
+  GET {your host url}/?language={language}&code={code}
 ```
 
 | Parameter | Type     | Description                |Example|
